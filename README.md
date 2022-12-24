@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Una.
 - 👀 I’m getting myself into full-stack dev.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning ...
 - 💞️ I’m currently not looking to collaborate.
 - 📫 How to reach me ...
 
